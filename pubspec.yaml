@@ -1,14 +1,13 @@
 name: cliar
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
-# homepage: https://www.example.com
+description: Cliar (クリアー) は、dart のクラス定義からコマンドラインオプションを設定できるようにするパッケージです。
+version: 0.1.0
+repository: https://github.com/booink/cliar-dart
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   recase: ^4.0.0
-#   path: ^1.8.0
 
 dev_dependencies:
   lints: ^1.0.0
